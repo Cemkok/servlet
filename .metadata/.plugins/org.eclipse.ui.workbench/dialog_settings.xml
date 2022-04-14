@@ -16,8 +16,8 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
-			<item value="org.eclipse.wst.server.ui.ServersView"/>
 			<item value="org.eclipse.tm.terminal.view.ui.TerminalsView"/>
+			<item value="org.eclipse.wst.server.ui.ServersView"/>
 			<item value="org.eclipse.ui.console.ConsoleView"/>
 		</list>
 		<list key="orderedProviders">
@@ -31,8 +31,8 @@
 			<item value="1"/>
 		</list>
 		<list key="textArray">
-			<item value="server"/>
 			<item value="term"/>
+			<item value="server"/>
 			<item value="consol"/>
 		</list>
 	</section>
