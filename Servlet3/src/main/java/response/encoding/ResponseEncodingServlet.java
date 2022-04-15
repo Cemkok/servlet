@@ -1,4 +1,4 @@
-package encoding.response;
+package response.encoding;
 
 import java.io.IOException;
 import java.io.PrintWriter;
